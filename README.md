@@ -1,3 +1,15 @@
+## Project Overview
+This repository contains the implementation for the `Pitch Detection and Player Tracking` project. This project was developed as part of a course assignment.
+
+## Usage Notice
+This project is intended for educational and academic purposes only. If you use or reference any part of this work, please give appropriate credit and cite the repository as follows:
+
+**Citation Format**:  
+Wang Yixin, "Pitch Detection and Player Tracking", GitHub Repository, https://github.com/Eric5619/Pitch-detection-and-player-tracking, October, 2024.
+
+## License and Acknowledgements
+This project is under an academic license. For any inquiries or permission requests, please contact wyx5619@gmail.com.
+
 Software for the detection of a badminton
 court and then players on the court are implemented. 
 
